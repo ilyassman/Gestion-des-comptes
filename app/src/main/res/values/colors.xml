@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="radio_text">#333333</color>
+    <color name="radio_button">#FF4081</color>
+    <color name="recycler_background">#F5F5F5</color>
+    <color name="fab_background">#FF4081</color>
+    <color name="fab_icon">#FFFFFF</color>
+</resources>
